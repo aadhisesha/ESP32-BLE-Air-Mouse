@@ -4,6 +4,15 @@ A motion-controlled wireless mouse built with an **ESP32 LOLIN32 Lite**, an **MP
 
 > **No Wi-Fi network or Python receiver is required.** The firmware sends mouse events over BLE.
 
+## Images & Videos
+
+### Project setup
+![Air Mouse Prototype](air_mouse_.jpeg)
+
+### Demo Video
+[![Watch the Demo](https://drive.google.com/file/d/1Atp-fah8yNRXSZppU0BuZFQiZuZgCXW4/view?usp=sharing)
+
+
 ## Features
 
 - **Gyroscope-based cursor movement** using hand rotation.
