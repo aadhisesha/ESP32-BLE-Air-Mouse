@@ -1,16 +1,15 @@
-# ESP32 BLE Air Mouse
-
-A motion-controlled wireless mouse built with an **ESP32 LOLIN32 Lite**, an **MPU6050-compatible gyroscope/accelerometer**, three buttons, and a small SPI OLED display. The ESP32 presents itself as a **Bluetooth Low Energy (BLE) HID mouse**, so a compatible computer or phone can receive cursor, click, and scroll events directly.
-
-> **No Wi-Fi network or Python receiver is required.** The firmware sends mouse events over BLE.
-
-## Images & Videos
-
 ### Project setup
 ![Air Mouse Prototype](air_mouse_.jpeg)
 
 ### Demo Video
 [![Watch the Demo](https://drive.google.com/file/d/1Atp-fah8yNRXSZppU0BuZFQiZuZgCXW4/view?usp=sharing)
+
+
+# ESP32 BLE Air Mouse
+
+A motion-controlled wireless mouse built with an **ESP32 LOLIN32 Lite**, an **MPU6050-compatible gyroscope/accelerometer**, three buttons, and a small SPI OLED display. The ESP32 presents itself as a **Bluetooth Low Energy (BLE) HID mouse**, so a compatible computer or phone can receive cursor, click, and scroll events directly.
+
+> **No Wi-Fi network or Python receiver is required.** The firmware sends mouse events over BLE.
 
 
 ## Features
