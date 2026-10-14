@@ -2,7 +2,7 @@
 ![Air Mouse Prototype](air_mouse_.jpeg)
 
 ### Demo Video
-[▶ Watch the Demo](https://drive.google.com/file/d/1Atp-fah8yNRXSZppU0BuZFQiZuZgCXW4/view?usp=sharing)
+[▶ Watch the Demo](https://drive.google.com/file/d/1XrXr40oaWbQE4HAfiNK_tVUSg7bekjrs/view?usp=sharing)
 
 
 # ESP32 BLE Air Mouse
